@@ -1,0 +1,95 @@
+{
+  "workspaces": {
+    "sql injection notes": {
+      "main": {
+        "id": "e952be06d8f81c08",
+        "type": "split",
+        "children": [
+          {
+            "id": "debf83a5814914cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retrieving hidden data.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1a6d762f059b64f6",
+        "type": "split",
+        "children": [
+          {
+            "id": "96b8e5782bb61136",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "30e70627cad53ccb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7e9bf3ce9a2e428e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 268
+      },
+      "right": {
+        "id": "417be493c46337ae",
+        "type": "split",
+        "children": [
+          {
+            "id": "0584e4905b4d8b9b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dfbeffb9f680fbf0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Retrieving hidden data.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "debf83a5814914cb"
+    }
+  },
+  "active": "sql injection notes"
+}
