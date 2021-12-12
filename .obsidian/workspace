@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web security/basics/sql injection/union_attack/labs/lab5.md",
+            "file": "Web security/tool usage tricks/burp tricks/Burp tricks.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web security/basics/sql injection/union_attack/labs/lab5.md",
+                "file": "Web security/tool usage tricks/burp tricks/Burp tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d68affe08f2c1ea5",
   "lastOpenFiles": [
-    "Web security/basics/sql injection/union_attack/labs/lab5.md",
-    "Web security/basics/sql injection/union_attack/union attacks.md",
-    "SQL injection.md",
-    "images/Pasted image 20211019143918.png",
-    "Web security/basics/sql injection/blind sql injection/Blind SQL injection with conditional responses.md",
-    "Web security/basics/sql injection/blind sql injection/Blind sql injection.md",
-    "Web security/basics/sql injection/blind sql injection/Exploiting blind SQL injection by triggering time delays.md",
-    "Web security/basics/sql injection/beginning/Subverting application logic/labs/lab2.md",
-    "Web security/basics/basic bugs.md",
-    "Pentester roadmap.md"
+    "Web security/tool usage tricks/burp tricks/Burp tricks.md",
+    "Web security/tool usage tricks/sqlmap tricks/sqlmap tricks.md",
+    "Web security/cmd tricks/CMD Tricks.md",
+    "developer shits/css/Resize element only using css.md",
+    "Pentester roadmap.md",
+    "Web security/linux tricks/linux tricks.md",
+    "Web security/basics/deserialize/deserialize.md",
+    "Web security/basics/xxe attack/xxe attack.md",
+    "Web security/basics/over permission/over permission.md",
+    "Web security/basics/login bypass/Login bypass.md"
   ]
 }
