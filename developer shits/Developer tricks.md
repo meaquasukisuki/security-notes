@@ -1,0 +1,3 @@
+# Developer tricks
+[[javascript]]
+[[css]]

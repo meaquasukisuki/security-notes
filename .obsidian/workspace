@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "e952be06d8f81c08",
+    "id": "b2e88f52ee23ea60",
     "type": "split",
     "children": [
       {
-        "id": "d68affe08f2c1ea5",
+        "id": "0792e1ccdd97287a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web security/tool usage tricks/burp tricks/Burp tricks.md",
+            "file": "Web security/middleware vulnerabilities/IIS/IIS.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web security/tool usage tricks/burp tricks/Burp tricks.md",
+                "file": "Web security/middleware vulnerabilities/IIS/IIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d68affe08f2c1ea5",
+  "active": "0792e1ccdd97287a",
   "lastOpenFiles": [
-    "Web security/tool usage tricks/burp tricks/Burp tricks.md",
-    "Web security/tool usage tricks/sqlmap tricks/sqlmap tricks.md",
-    "Web security/cmd tricks/CMD Tricks.md",
-    "developer shits/css/Resize element only using css.md",
-    "Pentester roadmap.md",
-    "Web security/linux tricks/linux tricks.md",
-    "Web security/basics/deserialize/deserialize.md",
-    "Web security/basics/xxe attack/xxe attack.md",
-    "Web security/basics/over permission/over permission.md",
-    "Web security/basics/login bypass/Login bypass.md"
+    "Web security/middleware vulnerabilities/IIS/IIS.md",
+    "Web security/middleware vulnerabilities/IIS/IIS 7.0解析漏洞.md",
+    "Web security/middleware vulnerabilities/IIS/IIS 6.0解析漏洞.md",
+    "Web security/middleware vulnerabilities/IIS/IIS 6.0 短文件名漏洞.md",
+    "Web security/middleware vulnerabilities/IIS/IIS 6.0 PUT.md",
+    "Web security/middleware vulnerabilities/middleware vulnerabilities.md",
+    "2.md",
+    "Web security/tricks/Tricks.md",
+    "Web security/tricks/os tricks/cmd tricks/CMD Tricks.md",
+    "Web security/tricks/os tricks/OS tricks.md"
   ]
 }

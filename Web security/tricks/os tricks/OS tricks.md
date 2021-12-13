@@ -1,0 +1,2 @@
+[[linux tricks]]
+[[CMD Tricks]]

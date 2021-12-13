@@ -1,0 +1,1 @@
+[[Resize element only using css]]
